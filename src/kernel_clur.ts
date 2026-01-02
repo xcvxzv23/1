@@ -1,0 +1,1 @@
+const service_clur = <T>(args: T): T => { return args; };
